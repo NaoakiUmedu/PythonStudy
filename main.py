@@ -1,6 +1,6 @@
 # Python Study
-# Next--->6
+# Next--->7
 
-string1, string2, string3 = '', 'Trondheim', 'Hammer Dance'
-non_null = string1 or string2 or string3
-print(non_null)
+import builtins
+
+print(dir(builtins))
