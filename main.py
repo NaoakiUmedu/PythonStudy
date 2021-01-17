@@ -1,6 +1,10 @@
 # Python Study
-# Next--->7
+# Next--->9
+# format code = ctrl + alt + l
 
-import builtins
-
-print(dir(builtins))
+while True:
+    try:
+        x = int(input("Please etnter a number: "))
+        break
+    except ValueError:
+        print("Oops! That was no valid number. Try again...")
