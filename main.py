@@ -1,5 +1,5 @@
 # Python Study
-# Next--->9
+# Next--->10
 # format code = ctrl + alt + l
 
 while True:
